@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\code\SlideSwitch-master\view\app\build\intermediates\exploded-aar\view\UISwitch\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac6bef1a8ed51ba842495bcb57010c1bdb2eda7d">
+        <dex dex="D:\code\SlideSwitch-master\view\app\build\intermediates\pre-dexed\debug\view-UISwitch-unspecified_4217d577e2e4757f974266557c019d2c193cb451.jar" />
+    </item>
+
+</items>
